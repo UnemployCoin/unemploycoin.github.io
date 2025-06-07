@@ -1,0 +1,76 @@
+/* Reset & base */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url('assets/background.png') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', sans-serif;
+  color: #ffffff;
+  overflow-x: hidden;
+  padding-top: 40px;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  margin-bottom: 60px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.hero h1 {
+  font-size: 3.5em;
+  margin-bottom: 0.3em;
+}
+
+.tagline {
+  font-size: 1.4em;
+  color: #e0e0e0;
+}
+
+/* Floating Cards */
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  max-width: 900px;
+  margin: 0 auto 80px;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.65);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.6);
+  width: 100%;
+  backdrop-filter: blur(6px);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  font-size: 1.8em;
+  margin-bottom: 15px;
+  color: #00aaff;
+}
+
+.card a {
+  color: #00ccff;
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #cccccc;
+  background-color: rgba(0, 0, 0, 0.4);
+}
