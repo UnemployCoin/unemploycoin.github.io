@@ -74,3 +74,44 @@ footer {
   color: #cccccc;
   background-color: rgba(0, 0, 0, 0.4);
 }
+.floating-nav {
+  position: relative;
+  top: 180px; /* Adjust this based on your background image */
+  width: 100%;
+  text-align: center;
+  z-index: 999;
+  margin-bottom: 40px;
+}
+
+.floating-nav ul {
+  list-style: none;
+  background: rgba(0, 0, 0, 0.7);
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+.floating-nav li {
+  display: inline;
+  margin: 0 20px;
+}
+
+.floating-nav a {
+  text-decoration: none;
+  color: #00ccff;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
