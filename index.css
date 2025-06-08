@@ -1,25 +1,11 @@
- .u-section-1 {
-  background-position: 50% 50%, 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-image: url('/images/background.png'), linear-gradient(to bottom, rgba(47, 160, 218, 1), rgba(47, 160, 218, 1));
-  background-size: cover, cover;
-}
-
-.u-section-1 .u-sheet-1 {
+.u-section-1 .u-image-1 {
   min-height: 728px;
+  background-image: url("/images/background.png");
 }
 
-@media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 631px;
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 655px;
   }
 } .u-section-2 {
   --border-color-var: #79bdf9;
