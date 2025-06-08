@@ -1,8 +1,9 @@
-# UnemployCoin
+# UnemployCoin™
+*UnemployCoin™ is a trademark of its creator, used to identify a community-driven cryptocurrency project.*
 
 **Empowering the Unemployed. Rebuilding Opportunity on the Blockchain.**
 
-UnemployCoin (UNEMP) is a community-driven ERC-20 token deployed on the Polygon network. It is designed to address systemic economic exclusion by providing tools, incentives, and decentralized support for unemployed individuals. The project combines blockchain utility with social impact, aiming to transform how we approach unemployment in the digital age.
+UnemployCoin™ (UNEMP) is a community-driven ERC-20 token deployed on the Polygon network. It is designed to address systemic economic exclusion by providing tools, incentives, and decentralized support for unemployed individuals. The project combines blockchain utility with social impact, aiming to transform how we approach unemployment in the digital age.
 
 ---
 
@@ -15,7 +16,7 @@ UnemployCoin (UNEMP) is a community-driven ERC-20 token deployed on the Polygon 
 
 ## 🔗 Smart Contract
 
-- **Token Name**: UnemployCoin  
+- **Token Name**: UnemployCoin™  
 - **Symbol**: `UNEMP`  
 - **Network**: Polygon (ERC-20 Standard)  
 - **Contract Address**: [`0xe1e64a89C7B95F23C601943147228784CCA35395`](https://polygonscan.com/address/0xe1e64a89C7B95F23C601943147228784CCA35395)
@@ -24,7 +25,7 @@ UnemployCoin (UNEMP) is a community-driven ERC-20 token deployed on the Polygon 
 
 ## 🎯 Mission
 
-UnemployCoin exists to create a decentralized financial ecosystem that supports individuals who have been underserved by traditional institutions. Our mission is to build a transparent, fair, and accessible platform where blockchain technology is used for real-world relief, not speculation.
+UnemployCoin™ exists to create a decentralized financial ecosystem that supports individuals who have been underserved by traditional institutions. Our mission is to build a transparent, fair, and accessible platform where blockchain technology is used for real-world relief, not speculation.
 
 ---
 
@@ -67,5 +68,5 @@ UnemployCoin exists to create a decentralized financial ecosystem that supports 
 
 ---
 
-> *UnemployCoin is not just a token — it’s a statement. We’re here to build meaningful, people-powered solutions through blockchain.*
+> *UnemployCoin™ is not just a token — it’s a statement. We’re here to build meaningful, people-powered solutions through blockchain.*
 
