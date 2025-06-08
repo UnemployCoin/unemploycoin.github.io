@@ -55,7 +55,7 @@ UnemployCoin exists to create a decentralized financial ecosystem that supports 
 ## 📢 Socials & Community
 
 - Twitter/X: [@UnemployCoin](https://x.com/UnemployCoin)
-- GitHub: [github.com/yourusername/unemploycoin](https://github.com/yourusername/unemploycoin)
+- GitHub: [github.com/unemploycoin/unemploycoin](https://github.com/unemploycoin/unemploycoin)
 
 ---
 
